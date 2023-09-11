@@ -11,7 +11,6 @@ In addition to personalized prompts, qalaAI also offers a collection of predefin
 
 Additionally, qalaAI offers users the option to download the AI-generated images they create. This feature allows users to save their creations and utilize them in various ways, such as incorporating them into digital artwork, sharing them on social media platforms, or even printing
 
-
 ## :star2: Tech Stack
 
 **:zap: Client:** React, TailwindCSS
