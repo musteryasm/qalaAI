@@ -44,6 +44,7 @@ npm start
 
 ## Contributors: 
 - [musteryasm](https://github.com/musteryasm)
+- [aditi](https://github.com/uyaditi)
     
 ## Feedback :thumbsup:
 
